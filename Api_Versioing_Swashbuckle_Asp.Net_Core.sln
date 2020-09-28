@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Versioing_Swashbuckle_Asp.Net_Core", "Api_Versioing_Swashbuckle_Asp.Net_Core\Api_Versioing_Swashbuckle_Asp.Net_Core.csproj", "{BF9475D9-3E63-44A1-AD33-3F4CFAF6DA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9475D9-3E63-44A1-AD33-3F4CFAF6DA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9475D9-3E63-44A1-AD33-3F4CFAF6DA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9475D9-3E63-44A1-AD33-3F4CFAF6DA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9475D9-3E63-44A1-AD33-3F4CFAF6DA06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819FB379-16FD-4DC3-9210-4A42975EB64B}
+	EndGlobalSection
+EndGlobal
