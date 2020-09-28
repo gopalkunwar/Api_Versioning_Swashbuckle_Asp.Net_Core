@@ -1,1 +1,6 @@
-# Api_Versioing_Swashbuckle_Asp.Net_Core
+# Api Versioing using Swashbuckle Asp.Net_Core
+Add below package
+
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
